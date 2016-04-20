@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./georgiusphrantz00bekkgoog_0468.png"; bbox 0 0 2746 5084; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 75 1719 1326 2162">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 75 1703 1326 2162">
+     <span class='ocr_line' id='line_1_1' title="bbox 75 1719 1160 1897; baseline 0.006 -2"><span class='ocrx_word' id='word_1_1' title='bbox 75 1719 1160 1897; x_wconf 74' lang='lat' dir='ltr'>10ANN1soANAN1</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 204 1962 1326 2162; baseline -0.001 -4"><span class='ocrx_word' id='word_1_2' title='bbox 204 2064 298 2158; x_wconf 87' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_3' title='bbox 335 2058 1029 2162; x_wconf 86' lang='lat' dir='ltr'>CONSTANTINOPOLI</span> <span class='ocrx_word' id='word_1_4' title='bbox 1324 1962 1326 1967; x_wconf 37' lang='lat'>⁸</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 342 2305 897 2382">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 342 2305 897 2382">
+     <span class='ocr_line' id='line_1_3' title="bbox 342 2305 897 2382; baseline 0 -2"><span class='ocrx_word' id='word_1_5' title='bbox 342 2305 591 2381; x_wconf 76' lang='lat' dir='ltr'>ANN01422</span> <span class='ocrx_word' id='word_1_6' title='bbox 622 2309 897 2382; x_wconf 81' lang='lat' dir='ltr'>OPPUGNATA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 508 2515 721 2580">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 508 2515 721 2580">
+     <span class='ocr_line' id='line_1_4' title="bbox 508 2515 721 2580; baseline -0.005 -2"><span class='ocrx_word' id='word_1_7' title='bbox 508 2515 721 2580; x_wconf 77' lang='lat' dir='ltr'>NARRATIO.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1378 5084">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1378 5084">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1378 5084; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1378 5084; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
